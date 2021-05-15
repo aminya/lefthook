@@ -24,7 +24,8 @@ archives:
       linux: Linux
       386: i386
       amd64: x86_64
-  - id: lefthook-tar.gz
+  - id: lefthook-zip
+    format: zip
     files:
     - none*
     replacements:
